@@ -8,6 +8,5 @@ Model can be trained indigenously(natively coded, code included in prev. repo) o
 main.py, where the model is used to predict whether a person is wearing a mask or not
 
 ### End Results:
-<img src="image/s1.png" width=350 height=150>
-<img src="image/s2.png" width=350 height=150>
-          
+<img src="images/s1.png" width=350 height=150>
+<img src="images/s3.png" width=350 height=150>
